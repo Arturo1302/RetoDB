@@ -122,4 +122,4 @@ CREATE TABLE Envios (
 );
 
 ```
-![Imagen Diagrama](/home/camper/Escritorio/RetoDB/Captura desde 2026-03-27 07-22-11.png)
+![Imagen Diagrama](https://github.com/Arturo1302/RetoDB/blob/main/Captura%20desde%202026-03-27%2007-22-11.png)
